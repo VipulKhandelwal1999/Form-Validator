@@ -13,4 +13,4 @@ Simple client side form validation. Check required, length, email and password m
 
 ## Website Demo
 
-<a href="https://form-clientside-validator.netlify.app/">Visit Website</a>
+<a href="https://form-clientside-validator.netlify.app/" class="button">Visit Website</a>
