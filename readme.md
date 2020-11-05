@@ -10,3 +10,7 @@ Simple client side form validation. Check required, length, email and password m
 - checkLength() to check min and max length
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
+
+## Website Demo
+
+<a href="https://form-clientside-validator.netlify.app/">Visit Website</a>
